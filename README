@@ -1,0 +1,10 @@
+To run the program, you open ./cfiles in your terminal and run:
+make.sh
+
+The compilation and execution should happen immediately, and once you've ran make.sh at least once, you should be able to run:
+./cfiles/banco
+
+If you want to debug the program, you could run:
+./cfiles/debug.sh
+
+This enables an option to see the file, function, and line where everything is being executed.
